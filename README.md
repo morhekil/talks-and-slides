@@ -7,3 +7,6 @@ Gives an introduction into working with processes and threads in Ruby,
 together with a deeper look at some underlying differences between various
 Ruby versions and implementations.
 
+## VIM - Craftsman's Precision Tool
+
+Lightning talk about the origins of vim editor, and the basic ideas behind it.
