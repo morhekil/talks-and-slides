@@ -1,5 +1,11 @@
 # Slides
 
+## Containers All The Way Down
+
+Slides for the talk about building blocks of modern containers
+(from chroot to AuFS). Introduction to Docker with Ruby+Redis
+container examples, and docker-compose workflow.
+
 ## Processes, Threads and Ruby
 
 Slides from the talk I gave at JN Solutions office in April, 2013.
