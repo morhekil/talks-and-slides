@@ -1,5 +1,12 @@
 # Slides
 
+## Shipping Against The Odds - October 2018 @ Product Mavens,
+
+Slide deck for the talk I've given at Product Mavens meetup discussing
+how to use Rapid Prototyping techniques and mindset within a small team
+to be able to quickly adapt to a changing environment, and what are the
+values that are most benefitial in these scenarios.
+
 ## Containers All The Way Down
 
 Slides for the talk about building blocks of modern containers
